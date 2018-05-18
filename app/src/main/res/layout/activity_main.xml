@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr">
+
+    <ImageView
+        android:id="@+id/background_imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/main_activity_background"
+        android:scaleType="fitXY"
+        android:contentDescription="@string/app_name" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/zotLines_viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="bottom"
+        android:clipToPadding="false"
+        android:overScrollMode="never"
+        android:paddingTop="120dp"
+        android:paddingBottom="120dp"
+        android:paddingEnd="60dp"
+        android:paddingLeft="60dp"
+        android:paddingRight="60dp"
+        android:paddingStart="60dp" />
+    
+</RelativeLayout>

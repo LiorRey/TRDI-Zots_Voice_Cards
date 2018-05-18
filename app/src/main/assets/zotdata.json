@@ -1,0 +1,172 @@
+{
+  "zotdata": [
+    {
+      "text": "Bad Pooky!\nDon't drink that!",
+      "file": "zot_bad-pooky-dont-drink-that",
+      "numOfVersions": 4,
+      "thumbnail": "badpooky"
+    },
+    {
+      "text": "Behold my impressive power as I... pull this rabbit out of my hat!",
+      "file": "zot_behold-my-impressive-power",
+      "numOfVersions": 4,
+      "thumbnail": "beholdasi"
+    },
+    {
+      "text": "Down Pooky!",
+      "file": "zot_down-pooky",
+      "numOfVersions": 4,
+      "thumbnail": "downpooky"
+    },
+    {
+      "text": "Gambling? I'm in!",
+      "file": "zot_gambling-im-in",
+      "numOfVersions": 5,
+      "thumbnail": "gamblingimin"
+    },
+    {
+      "text": "How many times have I told you? Keep your hands off my wand!",
+      "file": "zot_how-many-times-hands-off-my-wand",
+      "numOfVersions": 8,
+      "thumbnail": "howmanytimes"
+    },
+    {
+      "text": "I don't think so!",
+      "file": "zot_i-dont-think-so",
+      "numOfVersions": 5,
+      "thumbnail": "idontthinkso"
+    },
+    {
+      "text": "I raise!",
+      "file": "zot_gambling-i-raise",
+      "numOfVersions": 6,
+      "thumbnail": "iraise"
+    },
+    {
+      "text": "I told you not to distract me!",
+      "file": "zot_i-told-you-not-distract-me",
+      "numOfVersions": 7,
+      "thumbnail": "itoldyounotto"
+    },
+    {
+      "text": "Look over there!\nIt's the Lich King!",
+      "file": "zot_look-over-there-its-lich-king",
+      "numOfVersions": 4,
+      "thumbnail": "lookoverthere"
+    },
+    {
+      "text": "No, Pooky!\nThat's my friend!",
+      "file": "zot_no-pooky-thats-friend",
+      "numOfVersions": 4,
+      "thumbnail": "nopookythats"
+    },
+    {
+      "text": "Nothing up my sleeve! Presto! What's that behind your ear?",
+      "file": "zot_nothing-up-sleeve-presto",
+      "numOfVersions": 4,
+      "thumbnail": "nothingupmysleeve"
+    },
+    {
+      "text": "Not now, I'm meditating.",
+      "file": "zot_not-now-im-meditating",
+      "numOfVersions": 6,
+      "thumbnail": "notnow"
+    },
+    {
+      "text": "Now you see me...\nNow you don't!",
+      "file": "zot_now-you-see-me",
+      "numOfVersions": 5,
+      "thumbnail": "nowyouseeme"
+    },
+    {
+      "text": "Oh, Barmaid!\nI think Pooky had an accident!",
+      "file": "zot_oh-barmaid-pooky-had-accident",
+      "numOfVersions": 3,
+      "thumbnail": "ohbarmaid"
+    },
+    {
+      "text": "Oh, I guess the Wench thought that was her tip...",
+      "file": "zot_oh-i-guess-wench-thought-her-tip",
+      "numOfVersions": 3,
+      "thumbnail": "ohiguessthewench"
+    },
+    {
+      "text": "Oh no! Not again! Pooky's on a drunken rampage!",
+      "file": "zot_oh-no-not-again-pooky-rampage",
+      "numOfVersions": 5,
+      "thumbnail": "ohnodrunkenrampage"
+    },
+    {
+      "text": "Pooky! Stop looking at\neveryone's cards!",
+      "file": "zot_gambling-pooky-stop-looking-cards",
+      "numOfVersions": 4,
+      "thumbnail": "pookystoplooking"
+    },
+    {
+      "text": "Pooky thinks you look thirsty...",
+      "file": "zot_pooky-thinks-you-look-thirsty",
+      "numOfVersions": 3,
+      "thumbnail": "pookythinksthirsty"
+    },
+    {
+      "text": "Teleport beverage!",
+      "file": "zot_teleport-beverage",
+      "numOfVersions": 5,
+      "thumbnail": "teleportbeverage"
+    },
+    {
+      "text": "The stars say, \"No!\"",
+      "file": "zot_the-stars-say-no",
+      "numOfVersions": 3,
+      "thumbnail": "thestarssay"
+    },
+    {
+      "text": "The Wench thinks you should stop playing with the drinks.",
+      "file": "zot_the-wench-thinks-stop-playing-drinks",
+      "numOfVersions": 2,
+      "thumbnail": "thewench"
+    },
+    {
+      "text": "This time, we'll use my dice.",
+      "file": "zot_gambling-this-time-my-dice",
+      "numOfVersions": 3,
+      "thumbnail": "thistimewelluse"
+    },
+    {
+      "text": "Tip the Wench.",
+      "file": "zot_tip-the-wench",
+      "numOfVersions": 3,
+      "thumbnail": "tipthewench"
+    },
+    {
+      "text": "Transmute peanuts to gold",
+      "file": "zot_transmute-peanuts-gold",
+      "numOfVersions": 3,
+      "thumbnail": "transmutepeanuts"
+    },
+    {
+      "text": "Watch out!\nDon't step on Pooky!",
+      "file": "zot_watch-out-dont-step-on-pooky",
+      "numOfVersions": 6,
+      "thumbnail": "watchout"
+    },
+    {
+      "text": "Wench, bring some drinks for my friends!",
+      "file": "zot_wench-bring-some-drinks-for-my-friends",
+      "numOfVersions": 4,
+      "thumbnail": "wenchbringsomedrinks"
+    },
+    {
+      "text": "What's that up your sleeve?",
+      "file": "zot_gambling-whats-that-up-sleeve",
+      "numOfVersions": 3,
+      "thumbnail": "whatsthatupyour"
+    },
+    {
+      "text": "Winning Hand!",
+      "file": "zot_gambling-winning-hand",
+      "numOfVersions": 6,
+      "thumbnail": "winninghand"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <scale
+        android:pivotX="100%"
+        android:pivotY="50%"
+        android:fromXScale="6.0"
+        android:toXScale="1.0"
+        android:fromYScale="6.0"
+        android:toYScale="1.0"
+        android:duration="9000">
+    </scale>
+
+    <!--<scale-->
+        <!--android:pivotX="74%"-->
+        <!--android:pivotY="65%"-->
+        <!--android:fromXScale="3.0"-->
+        <!--android:toXScale="1.0"-->
+        <!--android:fromYScale="3.0"-->
+        <!--android:toYScale="1.0"-->
+        <!--android:duration="3000">-->
+    <!--</scale>-->
+
+
+
+
+
+    <!--<scale xmlns:android="http://schemas.android.com/apk/res/android"-->
+        <!--android:fromXScale="3.0"-->
+        <!--android:toXScale="0.5"-->
+        <!--android:fromYScale="3.0"-->
+        <!--android:toYScale="0.5"-->
+        <!--android:duration="5000"-->
+        <!--android:pivotX="50%"-->
+        <!--android:pivotY="50%" >-->
+    <!--</scale>-->
+    <!--<translate-->
+        <!--android:fromXDelta="5%p"-->
+        <!--android:d>-->
+
+    <!--</translate>-->
+
+    <!--<translate-->
+        <!--android:fromXDelta="80%p"-->
+        <!--android:toXDelta="10%p"-->
+        <!--android:duration="4000"/>-->
+    <!---->
+    <!--<alpha android:fromAlpha="0.0" android:toAlpha="1.0"-->
+        <!--android:duration="500" />-->
+
+    <!--<scale-->
+        <!--android:pivotX="50%"-->
+        <!--android:pivotY="50%"-->
+        <!--android:fromXScale="5.0"-->
+        <!--android:toXScale="1.0"-->
+        <!--android:duration="3000"/>-->
+
+</set>

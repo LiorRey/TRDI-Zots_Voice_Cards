@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layoutDirection="ltr"
+    android:background="#000000">
+
+    <RelativeLayout
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:background="#000000">
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/splash_backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/header"
+        android:src="@drawable/the_red_dragon_inn_background_2"
+        android:contentDescription="@string/app_name" />
+
+    <ImageView
+        android:id="@+id/ribbon_banner_image"
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/ribbon_banner"
+        android:contentDescription="@string/splash_title"/>
+
+    <TextView
+        android:id="@+id/splash_title"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="26dp"
+        android:gravity="center"
+        android:textColor="@color/yellowThree"
+        android:textSize="18sp"
+        style="@style/TextShadowStyle"
+        android:text="@string/splash_title"/>
+
+    <!--<ImageView-->
+        <!--android:id="@+id/the_red_dragon_inn_logo"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:src="@drawable/the_red_dragon_inn_logo"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:contentDescription="@string/app_name" />-->
+
+    <RelativeLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:background="#000000">
+
+        <RelativeLayout
+            android:id="@+id/liorrey_container"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerInParent="true">
+
+            <ImageView
+                android:id="@+id/liorrey_image"
+                android:layout_width="35dp"
+                android:layout_height="match_parent"
+                android:layout_centerVertical="true"
+                android:src="@drawable/liorrey_image"
+                android:contentDescription="@string/liorrey_image_description"/>
+
+            <TextView
+                android:id="@+id/liorrey_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@id/liorrey_image"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="10dp"
+                android:gravity="center"
+                android:textColor="#ffffff"
+                android:textSize="15sp"
+                style="@style/TextShadowStyle"
+                android:text="@string/liorrey_title"/>
+
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>
